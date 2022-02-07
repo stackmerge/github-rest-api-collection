@@ -191,7 +191,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "token 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",
+						"value": "token {{git-access-token}}",
 						"type": "text"
 					}
 				],
